@@ -2,7 +2,7 @@ esp8266:
   board: d1_mini
 
 esphome:
-  name: "delta-tango"
+  name: delta-tango
 
 dallas:
   - pin: GPIO4
