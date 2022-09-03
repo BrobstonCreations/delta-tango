@@ -3,6 +3,7 @@ esp8266:
 
 esphome:
   name: delta-tango
+  name_add_mac_suffix: true
 
 dallas:
   - pin: GPIO4
