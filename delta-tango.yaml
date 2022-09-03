@@ -1,0 +1,56 @@
+esp8266:
+  board: d1_mini
+
+esphome:
+  name: "delta-tango"
+
+dallas:
+  - pin: GPIO4
+
+sensor:
+  - platform: dallas
+    name: HVAC Return Air Temperature
+    id: hvac_return_air_temperature
+    index: 0
+    accuracy_decimals: 2
+  - platform: dallas
+    name: HVAC Supply Air Temperature
+    id: hvac_supply_air_temperature
+    index: 1
+    accuracy_decimals: 2
+  - platform: template
+    name: HVAC Return/Supply Temperature Difference (°C)
+    lambda: 'return id(hvac_return_air_temperature).state - id(hvac_supply_air_temperature).state;'
+    accuracy_decimals: 2
+  - platform: template
+    name: HVAC Return/Supply Temperature Difference (°F)
+    lambda: |-
+      const float hvac_return_air_temperature_f = (id(hvac_return_air_temperature).state * 9/5) + 32;
+      const float hvac_supply_air_temperature_f = (id(hvac_supply_air_temperature).state * 9/5) + 32;
+      return hvac_return_air_temperature_f - hvac_supply_air_temperature_f;
+    accuracy_decimals: 2
+
+captive_portal:
+
+wifi:
+  ap: {}
+  # ssid: !secret wifi_ssid
+  # password: !secret wifi_password
+  # manual_ip:
+  #   static_ip: !secret static_ip
+  #   gateway: !secret gateway
+  #   subnet: !secret subnet
+
+# mqtt:
+#   broker: !secret mqtt_broker
+#   username: !secret mqtt_username
+#   password: !secret mqtt_password
+
+web_server:
+
+api:
+    
+ota:
+
+logger:
+  level: INFO
