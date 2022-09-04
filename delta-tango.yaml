@@ -6,7 +6,7 @@ esphome:
   name_add_mac_suffix: true
 
 dallas:
-  - pin: GPIO4
+  - pin: GPIO12
 
 sensor:
   - platform: dallas
