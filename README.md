@@ -1,4 +1,4 @@
-# delta-tango
+# Delta Tango
 
 This project contains most everything needed to 3D print, assemble, and flash an ESPHome Delta T monitoring tool. This measures the temperature difference between HVAC return air and supply air. 
 
