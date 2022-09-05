@@ -10,6 +10,7 @@ This project contains most everything needed to 3D print, assemble, and flash an
         - [D1 Mini ESP8266](https://amzn.to/3AmQJJu)
         - [D1 Mini DC Power Shield](https://amzn.to/3AiCEwD)
         - DS18B20 Temperature Sensor Probes
+        - 4.7k Resistor
         - Power Source Options:
             - [AC Adapter](https://amzn.to/3Ctc5ri)
             - Centralized Power Supply Components (consult an electrician if needed) (eventually I'll put out an STL for an enclosure for the Power Supply):
