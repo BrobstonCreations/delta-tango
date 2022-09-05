@@ -22,7 +22,7 @@ This project contains most everything needed to 3D print, assemble, and flash an
             - [Battery Pack](https://amzn.to/3AHrQd2) (not currently recommended, needs development for power saving mode).
     - [Assembly Instructions](/docs/ELECTRONICS_ASSEMBLY.md)
 2. 3D Printing:
-    - [Printing Advice](/docs/VENT_PRINTING.md)
+    - [Printing Advice](/docs/PRINTING_ADVICE.md)
     - [STLs](https://www.printables.com/social/337332-tonyb/collections/241144?o=download_count):
         - [Delta Tango](https://www.printables.com/model/271418)
     - [Assembly Instructions](/docs/VENT_ASSEMBLY.md)
