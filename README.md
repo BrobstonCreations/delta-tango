@@ -6,7 +6,7 @@ This project contains most everything needed to 3D print, assemble, and flash an
 
 ## Getting Started
 1. Electronics:
-    - Components (below are some Amazon Affiliate links, they help me support this project at no cost to you):
+    - Components:
         - D1 Mini ESP8266
         - D1 Mini DC Power Shield
         - DS18B20 Temperature Sensor Probes
