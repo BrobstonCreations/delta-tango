@@ -21,12 +21,12 @@ sensor:
     index: 1
     accuracy_decimals: 2
   - platform: template
-    name: HVAC Return/Supply Temperature Difference (°C)
+    name: HVAC Delta T (°C)
     lambda: 'return id(hvac_return_air_temperature).state - id(hvac_supply_air_temperature).state;'
     accuracy_decimals: 2
     update_interval: 1s
   - platform: template
-    name: HVAC Return/Supply Temperature Difference (°F)
+    name: HVAC Delta T (°F)
     lambda: |-
       const float hvac_return_air_temperature_f = (id(hvac_return_air_temperature).state * 9/5) + 32;
       const float hvac_supply_air_temperature_f = (id(hvac_supply_air_temperature).state * 9/5) + 32;
