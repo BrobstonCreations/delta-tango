@@ -6,6 +6,7 @@ Tools:
 
 Fasteners:
 - (4) M3x0.5 6mm Long Flat Head Machine Screws Inner Hex Screw
+- (2) M3x0.5 10mm (type isn't super important)
 
 
 Assembly:
