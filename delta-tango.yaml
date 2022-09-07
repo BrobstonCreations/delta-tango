@@ -3,7 +3,7 @@ esp8266:
 
 esphome:
   name: delta-tango
-  # name_add_mac_suffix: true
+  name_add_mac_suffix: true
 
 dallas:
   - pin: GPIO12
@@ -34,12 +34,15 @@ sensor:
     update_interval: 1s
     accuracy_decimals: 2
 
+dashboard_import:
+  package_import_url: github://brobstoncreations/delta-tango/delta-tango.yaml
+
 captive_portal:
 
 wifi:
-  # ap: {}
-  ssid: !secret wifi_ssid
-  password: !secret wifi_password
+  ap: {}
+#   ssid: !secret wifi_ssid
+#   password: !secret wifi_password
 #   manual_ip:
 #     static_ip: !secret static_ip
 #     gateway: !secret gateway
