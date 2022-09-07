@@ -22,7 +22,7 @@ Install using ESPHome Dashboard:
   2. Navigate to your ESPHome Dashboard.
   3. Click "+ NEW DEVICE".
   4. Click "CONTINE".
-  5. Enter a name for the vent. It is recommended to use something like: `delta-tango`.
+  5. Enter a name for the device. It is recommended to use something like: `delta-tango`.
   6. Choose "ESP8266".
   7. Click "INSTALL".
   8. Click "SKIP".
