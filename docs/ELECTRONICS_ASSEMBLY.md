@@ -7,3 +7,16 @@ The next time I assemble one of these, I'll take some pictures to add.
 4. Solder the pins to the D1 Mini.
 5. Once these pins are soldered, I would recommend removing the D1 Mini from the breadboard and clip it into a [third hand](https://en.wikipedia.org/wiki/Helping_hand_(tool)).
 6. From the bottom side of the D1 Mini, insert one leg of the 4.7k Resistor through 3V3 and the other leg through D6.
+7. With the resistor as tight as possible to the bottom of the D1 Mini, solder both 3V3 and D6 in place.
+8. Now you should be able to press the DC Power Shield onto the pins you soldered to the D1 Mini. Be sure to insert the [spacer](https://www.printables.com/model/259295-esp-shield-solder-spacer) before soldering.
+![2-electronics-and-spacer](https://user-images.githubusercontent.com/4724577/184462537-a2b78668-7f86-4ea0-98f0-43a03e7348ec.jpg)
+![3-electronics-and-spacer-inserted](https://user-images.githubusercontent.com/4724577/184462541-0ec240d3-f7c3-4e77-ba08-74e298b98570.jpg)
+![4-electronics-and-spacer-inserted-side](https://user-images.githubusercontent.com/4724577/184462880-a24e45a4-a4ad-46f9-a712-220e4b8e3bc7.jpg)
+9. Solder the pins to the DC Power Shield.
+10. Remove the spacer.
+11. Strip 1/4 of an inch of insulation off the end of each wire on both DS18B20 Temperature Sensor Probes.
+12. Twist the exposed wiring for each matching pair (red, yellow, black) together.
+13. Slide a piece of wiring shrink wrap over each pair.
+14. Tin the wires on both DS18B20's and each of the corresponding pins on the top of the Power Shield (3V3, D6, and GND).
+15. Using a [third hand](https://en.wikipedia.org/wiki/Helping_hand_(tool)) and some clever positioning, clamp the D1 Mini to one clip and while roughly lining up the wiring ends to the D1 Mini, clip the two DS18B20's wiring into the second clip (this should be roughly 5 inche from the end).
+16. Solder the red pair to 3V3, the yellow pair to D6, and the black pair to GND. 
