@@ -6,7 +6,7 @@
   2. The rest should be self-explanatory. There should be controls that correspond to the type ESPHome device you have configured.
 
   Control your device through Home Assistant:
-  1. This device should show up automatically in your Home Assistant notifications and integrations. If it does not show up automatically, navigate to: Home Assistant -> Settings -> Devices & Services -> + Add Integration -> type "ESPHome" -> select "ESPHome" -> enter the IP address of your ESPHome device -> click "SUBMIT". You may need to go into your router/wifi/network device and find the IP address of your device.
+  1. Assuming your device is connected to your network, it should show up automatically in your Home Assistant notifications and integrations. If it does not show up automatically, navigate to: Home Assistant -> Settings -> Devices & Services -> + Add Integration -> type "ESPHome" -> select "ESPHome" -> enter the IP address of your ESPHome device -> click "SUBMIT". You may need to go into your router/wifi/network device and find the IP address of your device.
   2. The rest should be self-explanatory. There should be controls that correspond to the type ESPHome device you have configured.
   
   Control your device using MQTT:
