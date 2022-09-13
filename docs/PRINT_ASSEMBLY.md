@@ -16,4 +16,4 @@ Assembly:
 - Align the electronics enclosure lid onto the top of the enclosure.
 - Install the four M3x0.5 machine screws. Take care to be sure that the wires are clamped tight enough to not move in or out.
 - Slide the DS18B20 Temperature Sensor Probe ends through the probe mounts; do this for both probes.
-- Install the set screw in the probe mount; this shouldn't need to be more than hand-tight. The goal here is to keep the probe in the mount; the probe should be a friction fit in the mount.
+- Install the set screw in the probe mount; this shouldn't need to be more than hand-tight. The goal here is to keep the probe in the mount.
