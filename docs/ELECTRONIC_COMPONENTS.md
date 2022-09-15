@@ -1,10 +1,10 @@
 ## Components
-  - D1 Mini ESP8266
-  - D1 Mini DC Power Shield
-  - DS18B20 Temperature Sensor Probes
-  - 4.7k Resistor
+  - [D1 Mini ESP8266](https://amzn.to/3RKfhDr)
+  - [D1 Mini DC Power Shield](https://amzn.to/3x4fysX)
+  - [DS18B20 Temperature Sensor Probes](https://amzn.to/3BlRHq3)
+  - [4.7k Resistors](https://amzn.to/3dlpAiz)
   - Power Source Options:
-      - AC Adapter
+      - [AC Adapter](https://amzn.to/3qifrGf)
       - Centralized Power Supply Components (consult an electrician if needed) (eventually I'll put out an STL for an enclosure for the Power Supply):
           - [DC 24V15A 360W Switching Power Supply](https://amzn.to/3QxQ3r2)
           - [Power Supply Fused Power Injection Board](https://www.holidaycoro.com/product-p/1308.htm) (needs testing)
