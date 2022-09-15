@@ -11,7 +11,7 @@ For this project I am offering a fully assembled unit that comes preflashed. If 
 ## Getting Started
 1. Electronics:
     - Components:
-        - [Components Kit](https://brobston-creations.mybigcommerce.com/delta-tango/) (This directly supports me, which affords me the time develop this project and the future systems that will built around it.)
+        - [Components Kit](https://brobston-creations.mybigcommerce.com/delta-tango/) (This directly supports me, which affords me the time develop this project and the future systems that will be built around it. Please consider ordering from me.)
         - [Components List](/docs/ELECTRONIC_COMPONENTS.md)
     - [Assembly Instructions](/docs/ELECTRONICS_ASSEMBLY.md)
 2. 3D Printing:
