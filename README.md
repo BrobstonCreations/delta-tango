@@ -6,7 +6,7 @@ This project contains most everything needed to 3D print, assemble, and flash an
 
 ![PXL_20220904_192132391~2](https://user-images.githubusercontent.com/4724577/188345113-22dde111-477e-4e54-903d-98896514ac9e.jpg)
 
-For this project I am offering a fully assembled unit that comes preflashed. If you are running Home Assistant, it is a matter of powering the unit on, connecting it to your WiFi through the Access Point Captive Portal functionality of ESPHome, and Home Assistant should automatically detect the device. After adopting it should be ready to use. If you are interested, go to this [link](https://brobston-creations.mybigcommerce.com/delta-tango/) and select "Include 3D Printed Parts" "Yes" and "Electronics" "Assembled" (and "Include Power Supply" "Yes" or "No" depending on what you want). However, if you would rather build your own or buy a kit with the necessary components to do so, all the information for printing/assembly is below.
+*If you find this project and projects like this interesting, consider subscribing to [my YouTube channel](https://www.youtube.com/channel/UCgCMP6xM_JXDGDd-Z7GzLtQ) for future updates.*
 
 ## Getting Started
 1. Electronics:
