@@ -56,6 +56,8 @@ wifi:
 web_server:
 
 api:
+
+mdns:
     
 ota:
 
