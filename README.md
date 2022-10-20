@@ -11,7 +11,7 @@ This project contains most everything needed to 3D print, assemble, and flash an
 ## Getting Started
 1. Electronics:
     - Components:
-        - [Components Kit](https://brobston-creations.mybigcommerce.com/delta-tango/) (This directly supports me, which affords me the time to develop this project and the future systems that will be built around it. Please consider ordering from me.)
+        - [Components Kits]
         - [Components List](/docs/ELECTRONIC_COMPONENTS.md)
     - [Assembly Instructions](/docs/ELECTRONICS_ASSEMBLY.md)
 2. 3D Printing:
@@ -36,4 +36,7 @@ This project contains most everything needed to 3D print, assemble, and flash an
 Pull Requests are always welcome. I would recommend starting with an [issue](https://github.com/TonyBrobston/delta-tango/issues), so that we can discuss viability and implementation.
 
 ## Issues
-Feel free to open an [issue](https://github.com/TonyBrobston/delta-tango/issues) and I will respond as I have time. The hope is to create a system that gives consumers what they want, your feedback is important. 
+Feel free to open an [issue](https://github.com/TonyBrobston/delta-tango/issues) and I will respond as I have time. The hope is to create a system that gives consumers what they want, your feedback is important.
+
+## Support
+If you like the work I do and want to give back, consider [buying me a coffee ☕](https://buy.stripe.com/7sI7t03JC9GUf4c6oo) or [making a donation](https://www.buymeacoffee.com/brocreates).
