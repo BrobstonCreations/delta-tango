@@ -1,5 +1,5 @@
 ## Components
-  - [D1 Mini ESP8266](https://amzn.to/3RKfhDr)
+  - [D1 Mini ESP8266](https://amzn.to/3BZr4bB)
   - [D1 Mini DC Power Shield](https://amzn.to/3x4fysX)
   - [DS18B20 Temperature Sensor Probes](https://amzn.to/3BlRHq3)
   - [4.7k Resistors](https://amzn.to/3dlpAiz)
