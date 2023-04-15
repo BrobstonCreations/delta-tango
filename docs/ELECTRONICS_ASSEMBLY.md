@@ -12,7 +12,6 @@
 10. Remove the spacer.
 11. Strip 1/4 of an inch of insulation off the end of each wire on both DS18B20 Temperature Sensor Probes.
 12. Twist the exposed wiring for each matching pair (red, yellow, black) together.
-13. Slide a piece of wiring shrink wrap over each pair.
-14. Tin the wires on both DS18B20's and each of the corresponding pins on the top of the Power Shield (3V3, D6, and GND).
-15. Using a [third hand](https://en.wikipedia.org/wiki/Helping_hand_(tool)) and some clever positioning, clamp the D1 Mini to one clip and while roughly lining up the wiring ends to the D1 Mini, clip the two DS18B20's wiring into the second clip (this should be roughly 5 inches from the end).
-16. Solder the red pair to 3V3, the yellow pair to D6, and the black pair to GND. 
+13. Tin the wires on both DS18B20's and each of the corresponding pins on the top of the Power Shield (3V3, D6, and GND).
+14. Using a [third hand](https://en.wikipedia.org/wiki/Helping_hand_(tool)) and some clever positioning, clamp the D1 Mini to one clip and while roughly lining up the wiring ends to the D1 Mini, clip the two DS18B20's wiring into the second clip (this should be roughly 5 inches from the end).
+15. Solder the red pair to 3V3, the yellow pair to D6, and the black pair to GND. 
