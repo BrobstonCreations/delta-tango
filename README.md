@@ -10,9 +10,7 @@ This project contains most everything needed to 3D print, assemble, and flash an
 
 ## Getting Started
 1. Electronics:
-    - Components:
-        - [Components Kits](https://brobston-creations.mybigcommerce.com/delta-tango/)
-        - [Components List](/docs/ELECTRONIC_COMPONENTS.md)
+    - [Components List](/docs/ELECTRONIC_COMPONENTS.md)
     - [Assembly Instructions](/docs/ELECTRONICS_ASSEMBLY.md)
 2. 3D Printing:
     - [Printing Advice](/docs/PRINTING_ADVICE.md)
